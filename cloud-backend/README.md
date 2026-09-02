@@ -1,4 +1,4 @@
-# Cloudrunner Backend
+# CloudRunner Backend
 
 A robust REST API backend built with Axum for managing university teachers and their NixOS configuration files.
 
