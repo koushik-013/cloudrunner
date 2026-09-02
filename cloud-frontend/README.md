@@ -1,4 +1,4 @@
-# University NixOS Frontend (SvelteKit + Deno)
+# CloudRunner Frontend (SvelteKit + Deno)
 
 A modern frontend application built with SvelteKit and Deno for managing NixOS configurations.
 
